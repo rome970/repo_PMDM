@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenEtiquetasAlberto</string>
+    <string-array name="tipoGasofa">
+        <item>diesel</item>
+        <item>gasolina</item>
+        <item>hibrido</item>
+        <item>electrico</item>
+    </string-array>
+</resources>
